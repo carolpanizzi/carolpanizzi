@@ -5,7 +5,7 @@
 
 ### Software Engineering Student at PUCRS | Software Development Enthusiast
 
-[LinkedIn](https://www.linkedin.com/in/carolina-panizzi/) · [Email](mailto:panizzicarol@gmail.com) · [Resume](https://github.com/Carol1207/Carol1207/blob/main/Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/carolina-panizzi/) · [Email](mailto:panizzicarol@gmail.com) · [Resume](https://github.com/Carol1207/Carol1207/blob/main/Curriculum.pdf)
 
 </div>
 
