@@ -81,6 +81,7 @@ A collection of certifications and professional development achievements through
 | Software Testing Fundamentals | TIC em trilhas | Sep 2026 | [View Credential](https://ticemtrilhas.org.br/certificate-validation?code=0901031e-99af-4d86-8eca-f0bf946acb43) |
 | Introduction to Interaction Design (UX/UI) | TIC em trilhas | Sep 2026 | [View Credential](https://ticemtrilhas.org.br/certificate-validation?code=2a2986a6-26d8-4acd-9e78-04669b41fc32) |
 
+All of my certifications can also be viewed [here](https://github.com/Carol1207/Carol1207/tree/main/certifications).
 
 ## Beyond Coding
 
