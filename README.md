@@ -3,11 +3,9 @@
 
 # Hi, I'm Carolina Panizzi 👋
 
-### Software Engineering Student at PUCRS | Software Development & AI Enthusiast
+### Software Engineering Student at PUCRS | Software Development Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-panizzi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panizzicarol@gmail.com)
-[![Certifications](https://img.shields.io/badge/My_Certifications-334155?style=for-the-badge&logo=readme&logoColor=white)](CERTIFICATIONS.md)
+[LinkedIn](https://www.linkedin.com/in/carolina-panizzi/) · [Email](mailto:panizzicarol@gmail.com)
 
 </div>
 
@@ -17,7 +15,9 @@ I'm a **Software Engineering student at Pontifícia Universidade Católica do Ri
 
 I have **one year of internship experience at Dell Technologies**, where I contributed to software development, application maintenance, and database-related activities. I also worked on front-end projects using JavaScript, CSS, and React at IDE Junior Enterprise.
 
-I'm interested in **Artificial Intelligence, Large Language Models (LLMs), and building and integrating AI-powered applications**. I enjoy learning new technologies and collaborating on practical software solutions.
+I'm passionate about **software engineering, software development, and exploring new technologies**. My interests include **software design and architecture, web and application development, software research, and Artificial Intelligence**, particularly Large Language Models (LLMs) and the development and integration of AI-powered solutions.
+
+I'm constantly looking to expand my technical knowledge, explore innovative approaches to software development, and deepen my understanding of how technology can solve real-world problems. I enjoy **learning new programming concepts, researching emerging technologies, tackling technical challenges, and collaborating with others** to design and build practical, efficient, and meaningful software solutions.
 
 - 🎓 Studying Software Engineering at **PUCRS**
 - 💼 Former **Software Engineering Intern at Dell Technologies**
@@ -41,23 +41,24 @@ I'm interested in **Artificial Intelligence, Large Language Models (LLMs), and b
 
 ### Databases & Messaging
 
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/></a>
-<a href="https://www.oracle.com/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle Database"/></a>
-<a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/></a>
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)](https://www.mongodb.com/)
+[![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge)](https://www.oracle.com/database/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge)](https://www.rabbitmq.com/)
 
 ### Development & Design Tools
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
-<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/></a>
-<a href="https://www.microsoft.com/microsoft-365"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" width="48" height="48" alt="Microsoft 365"/></a>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge)](https://gitlab.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)](https://www.figma.com/)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge)](https://www.microsoft.com/microsoft-365)
 
 ### AI-Assisted Development
 
-<a href="https://chatgpt.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" alt="ChatGPT"/></a>
-<a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" alt="OpenAI Codex"/></a>
-<a href="https://www.anthropic.com/claude-code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" width="48" height="48" alt="Claude Code"/></a>
-<a href="https://github.com/features/copilot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcopilot/githubcopilot-original.svg" width="48" height="48" alt="GitHub Copilot"/></a>
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge)](https://chatgpt.com/)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge)](https://openai.com/codex/)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)](https://www.anthropic.com/claude-code)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge)](https://github.com/features/copilot)
 
 ## Experience
 
@@ -71,10 +72,30 @@ Contributed to websites and basic applications using CSS, JavaScript, and React,
 
 ## Certifications
 
-You can find my certificates and credential links on my **[Certifications page](CERTIFICATIONS.md)**.
+A collection of certifications and professional development achievements throughout my learning journey.
+
+| Certification | Issuing Organization | Issued | Credential |
+|---|---|---|---|
+| GitHub Foundations | Microsoft Learn | Oct 2026 | [View Credential](https://learn.microsoft.com/pt-br/users/carolinapanizzi-2434/achievements/h23avsz8) |
+| Programming Fundamentals with AI<br>(Registry number: 268718-47-1) | PUCRS | Oct 2026 | [View Credential](https://webappcl.pucrs.br/inscricoes/verificacao) |
+| Software Testing Fundamentals | TIC em trilhas | Sep 2026 | [View Credential](https://ticemtrilhas.org.br/certificate-validation?code=0901031e-99af-4d86-8eca-f0bf946acb43) |
+| Introduction to Interaction Design (UX/UI) | TIC em trilhas | Sep 2026 | [View Credential](https://ticemtrilhas.org.br/certificate-validation?code=2a2986a6-26d8-4acd-9e78-04669b41fc32) |
+
+
+## Beyond Coding
+
+Outside of software development, I enjoy spending my free time on different hobbies and creative activities.
+
+- 🎮 Playing video games
+- 🎶 Playing the flute
+- 📸 Photography
+- 🧵 Cross-stitching
+- 📚 Reading fiction novels
+- 🐥 Spending time with my parrots
 
 ## Let's Connect
 
-I'm interested in software engineering, AI, and opportunities to keep learning and building.
+I'm always open to connecting with people who share my passion for technology, exchanging ideas, and exploring new opportunities.<br>
+Feel free to reach out if you'd like to collaborate on a project, talk about software development, or simply connect!
 
 [LinkedIn](https://www.linkedin.com/in/carolina-panizzi/) · [Email](mailto:panizzicarol@gmail.com)
