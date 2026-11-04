@@ -5,7 +5,7 @@
 
 ### Software Engineering Student at PUCRS | Software Development Enthusiast
 
-[LinkedIn](https://www.linkedin.com/in/carolina-panizzi/) · [Email](mailto:panizzicarol@gmail.com) · [Resume](https://github.com/Carol1207/Carol1207/blob/main/Curriculum.pdf)
+[LinkedIn](https://www.linkedin.com/in/carolina-panizzi/) · [Email](mailto:panizzicarol@gmail.com) · [Resume](https://github.com/carolpanizzi/carolpanizzi/blob/main/Resume.pdf)
 
 </div>
 
@@ -76,7 +76,7 @@ A collection of certifications and professional development achievements through
 
 | Certification | Issuing Organization | Issued | Credential |
 |---|---|---|---|
-| Building GenAI Apps Learning Badge Path | MongoDB | Nov 2026 | [View Credential](https://ti-user-certificates.s3.us-east-1.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/28be9875-f76b-4796-b4a1-0fdcb37cbea7-carolina-panizzi-22b1c406-d6c2-4a1f-a7cc-cd433aa4661a-certificate.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAJPREDE4LLNE2GD6Q%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T033256Z&X-Amz-Expires=900&X-Amz-Signature=f04046689535611cd1add04faa38334bfbc2dafe68fc2da15e8cfb89c8c67535&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) |
+| Building GenAI Apps Learning Badge Path | MongoDB | Nov 2026 | [View Credential](https://learn.mongodb.com/c/IrHEBtbCSh-nzM1DOqRmGg) |
 | GitHub Foundations | Microsoft Learn | Oct 2026 | [View Credential](https://learn.microsoft.com/pt-br/users/carolinapanizzi-2434/achievements/h23avsz8) |
 | Programming Fundamentals with AI<br>(Registry number: 268718-47-1) | PUCRS | Oct 2026 | [View Credential](https://webappcl.pucrs.br/inscricoes/verificacao) |
 | Software Testing Fundamentals | TIC em trilhas | Sep 2026 | [View Credential](https://ticemtrilhas.org.br/certificate-validation?code=0901031e-99af-4d86-8eca-f0bf946acb43) |
